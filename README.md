@@ -1,3 +1,3 @@
 # nosible
-Raspberry Pi and Rock64 system configs
-a
+Raspberry Pi and Rock64 buckup scripts and configs
+
